@@ -1,0 +1,204 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/372da9b42fdc66aead184979c2f21123/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/vinzer/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/162718ac0d87c550e98c0ad17c6b34fe/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/256f5a29a0e7d8a95cc3535698ff8e46/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/81d72a13f2c702e2f9d20860a97c9778/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/610c66a3cfc1f6f6b4132a903bb48576/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:26.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/9bcad4aa8c565b96bf70890101cdfd69/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/61c5f4074d3567b7370a36adf9407611/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/ca7c4f2152902ebea2743ad5fcdfc4f8/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/eece8b09a8efcbdedca7a0ce1f31db9d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0f1f49dd32a1a77b482bc3b8cb79cfc9/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ede056d5ce32cf527dcf6541e00a6e21/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/55749e282c273a6f45169d680b52ba81/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8a74093eddb173e279e394462f617337/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/824be8c9376f088d7d3385e1937e434b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4bcadcb18e79c3ae52604d75f00aabbe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1c2b587b2f368de7e9d237025d9506e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/73e032021e6eb126e7389087985b7d35/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f5c3fe65ce4fd7e3229261dc60518046/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9128598a343b8ce065aad39dfae15d81/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6cfff6cae9e735ad4f3290e1395092d4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/22d8504bf64c9316598ac21af27209f8/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml
+		ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml
+		ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:2:11-69
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:5:5-7:66
+	android:value
+		ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:7:9-63
+	android:name
+		ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:6:9-65
+uses-permission#android.permission.INTERNET
+ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/ca7c4f2152902ebea2743ad5fcdfc4f8/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/ca7c4f2152902ebea2743ad5fcdfc4f8/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/ca7c4f2152902ebea2743ad5fcdfc4f8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/ca7c4f2152902ebea2743ad5fcdfc4f8/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:11:22-76
+application
+ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:13:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/vinzer/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/162718ac0d87c550e98c0ad17c6b34fe/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/vinzer/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/162718ac0d87c550e98c0ad17c6b34fe/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:customtabs:26.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/9bcad4aa8c565b96bf70890101cdfd69/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/9bcad4aa8c565b96bf70890101cdfd69/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/61c5f4074d3567b7370a36adf9407611/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/61c5f4074d3567b7370a36adf9407611/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/ca7c4f2152902ebea2743ad5fcdfc4f8/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/ca7c4f2152902ebea2743ad5fcdfc4f8/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/eece8b09a8efcbdedca7a0ce1f31db9d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/eece8b09a8efcbdedca7a0ce1f31db9d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0f1f49dd32a1a77b482bc3b8cb79cfc9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0f1f49dd32a1a77b482bc3b8cb79cfc9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ede056d5ce32cf527dcf6541e00a6e21/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ede056d5ce32cf527dcf6541e00a6e21/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/55749e282c273a6f45169d680b52ba81/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/55749e282c273a6f45169d680b52ba81/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/73e032021e6eb126e7389087985b7d35/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/73e032021e6eb126e7389087985b7d35/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:19:9-42
+activity#com.example.vinzer.ootd.ui.Cover
+ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:20:19-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.example.vinzer.ootd.ui.MainActivity
+ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:27:9-29:60
+	android:label
+		ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:29:13-57
+	android:name
+		ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:28:13-44
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:30:9-33:64
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/ca7c4f2152902ebea2743ad5fcdfc4f8/AndroidManifest.xml:29:9-33:64
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/ca7c4f2152902ebea2743ad5fcdfc4f8/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/ca7c4f2152902ebea2743ad5fcdfc4f8/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:32:13-122
+	android:theme
+		ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:31:13-65
+activity#com.example.vinzer.ootd.ui.MainPage
+ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:34:9-58
+	android:name
+		ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml:34:19-46
+uses-sdk
+INJECTED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml
+INJECTED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/372da9b42fdc66aead184979c2f21123/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/372da9b42fdc66aead184979c2f21123/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/vinzer/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/162718ac0d87c550e98c0ad17c6b34fe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/vinzer/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/162718ac0d87c550e98c0ad17c6b34fe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/256f5a29a0e7d8a95cc3535698ff8e46/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/256f5a29a0e7d8a95cc3535698ff8e46/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/81d72a13f2c702e2f9d20860a97c9778/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/81d72a13f2c702e2f9d20860a97c9778/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/610c66a3cfc1f6f6b4132a903bb48576/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/610c66a3cfc1f6f6b4132a903bb48576/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/9bcad4aa8c565b96bf70890101cdfd69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/9bcad4aa8c565b96bf70890101cdfd69/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/61c5f4074d3567b7370a36adf9407611/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/61c5f4074d3567b7370a36adf9407611/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/ca7c4f2152902ebea2743ad5fcdfc4f8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/ca7c4f2152902ebea2743ad5fcdfc4f8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/eece8b09a8efcbdedca7a0ce1f31db9d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/eece8b09a8efcbdedca7a0ce1f31db9d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0f1f49dd32a1a77b482bc3b8cb79cfc9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0f1f49dd32a1a77b482bc3b8cb79cfc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ede056d5ce32cf527dcf6541e00a6e21/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ede056d5ce32cf527dcf6541e00a6e21/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/55749e282c273a6f45169d680b52ba81/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/55749e282c273a6f45169d680b52ba81/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:27.1.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8a74093eddb173e279e394462f617337/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8a74093eddb173e279e394462f617337/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/824be8c9376f088d7d3385e1937e434b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/824be8c9376f088d7d3385e1937e434b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4bcadcb18e79c3ae52604d75f00aabbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4bcadcb18e79c3ae52604d75f00aabbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1c2b587b2f368de7e9d237025d9506e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1c2b587b2f368de7e9d237025d9506e4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/73e032021e6eb126e7389087985b7d35/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/73e032021e6eb126e7389087985b7d35/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f5c3fe65ce4fd7e3229261dc60518046/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f5c3fe65ce4fd7e3229261dc60518046/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9128598a343b8ce065aad39dfae15d81/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9128598a343b8ce065aad39dfae15d81/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6cfff6cae9e735ad4f3290e1395092d4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6cfff6cae9e735ad4f3290e1395092d4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/22d8504bf64c9316598ac21af27209f8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/22d8504bf64c9316598ac21af27209f8/AndroidManifest.xml:20:5-44
+INJECTED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml
+INJECTED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/256f5a29a0e7d8a95cc3535698ff8e46/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml
+		ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml
+		ADDED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vinzer/AndroidStudioProjects/OOTD/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:customtabs:26.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/9bcad4aa8c565b96bf70890101cdfd69/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ede056d5ce32cf527dcf6541e00a6e21/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ede056d5ce32cf527dcf6541e00a6e21/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/55749e282c273a6f45169d680b52ba81/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/55749e282c273a6f45169d680b52ba81/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:customtabs:26.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/9bcad4aa8c565b96bf70890101cdfd69/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:customtabs:26.1.0] /home/vinzer/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/9bcad4aa8c565b96bf70890101cdfd69/AndroidManifest.xml:24:13-51
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0f1f49dd32a1a77b482bc3b8cb79cfc9/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0f1f49dd32a1a77b482bc3b8cb79cfc9/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/vinzer/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0f1f49dd32a1a77b482bc3b8cb79cfc9/AndroidManifest.xml:24:13-58

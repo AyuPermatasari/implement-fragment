@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OOTD</string>
+    <string name="title_activity_cover">Cover</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="nama">Nama: Rizky Alviandra</string>
+    <string name="nim">Nim: 1541180200</string>
+    <string name="kelas">Kelas: TI-4H</string>
+    <string name="button">Next Page</string>
+
+
+    <!-- -
+        This is an ad unit ID for a banner test ad. Replace with your own banner ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="banner_ad_unit_id">ca-app-pub-5744083151722726/8045114701</string>
+</resources>
